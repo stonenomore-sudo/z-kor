@@ -4,12 +4,32 @@
     <title>Z-KOR | ZETESIS-KORE</title>
 </head>
 <body style="background-color: black; color: #00ff00; font-family: monospace; text-align: center; padding: 50px;">
+    
     <h1 style="color: red;">[ ZETESIS-KORE ]</h1>
     <p>System Initialized... Welcome to the Terminal.</p>
     <hr style="border: 1px solid #333; width: 60%;">
+
     <p>Status: <span style="color: cyan;">Secure</span></p>
     <p>Focus: Networking | Cyber Security | Red-Team</p>
+    
     <br>
-    <a href="https://discord.gg/Pa87mbEU3Z" style="color: yellow; text-decoration: none; border: 1px solid yellow; padding: 5px;">JOIN DISCORD</a>
+
+    <div style="border: 1px solid #333; display: inline-block; padding: 20px; background-color: #111; text-align: left;">
+        <h3 style="color: yellow; margin-top: 0;">-- AVAILABLE COURSES --</h3>
+        <ul style="list-style: '> '; line-height: 1.8;">
+            <li>Basic Networking (N+)</li>
+            <li>Linux Fundamentals</li>
+            <li>Cyber Security Essentials</li>
+            <li>Web Penetration Testing</li>
+        </ul>
+    </div>
+
+    <br><br>
+
+    <a href="https://discord.gg/Pa87mbEU3Z" style="color: yellow; text-decoration: none; border: 1px solid yellow; padding: 10px; font-weight: bold;">>>> JOIN THE NETWORK <<<</a>
+
+    <br><br>
+    <p style="font-size: 10px; color: #444;">© 2026 Z-KOR | Unauthorized Access Prohibited</p>
+
 </body>
 </html>
