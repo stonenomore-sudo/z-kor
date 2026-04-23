@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Z-KOR | ZETESIS-KORE</title>
+</head>
+<body style="background-color: black; color: #00ff00; font-family: monospace; text-align: center; padding: 50px;">
+    <h1 style="color: red;">[ ZETESIS-KORE ]</h1>
+    <p>System Initialized... Welcome to the Terminal.</p>
+    <hr style="border: 1px solid #333; width: 60%;">
+    <p>Status: <span style="color: cyan;">Secure</span></p>
+    <p>Focus: Networking | Cyber Security | Red-Team</p>
+    <br>
+    <a href="APNA_DISCORD_LINK" style="color: yellow; text-decoration: none; border: 1px solid yellow; padding: 5px;">JOIN DISCORD</a>
+</body>
+</html>
